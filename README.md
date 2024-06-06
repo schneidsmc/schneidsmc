@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @schneidsmc
-- 👀 I’m interested in the outdoors.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on learning.
 - 📫 How to reach me => send me an email @ schneidsmc@gmail.com
 
 <!---
